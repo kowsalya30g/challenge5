@@ -7,9 +7,12 @@ public class HelloName {
 	
 	     Scanner input = new Scanner(System.in);
 	     System.out.println("Enter a name: ");
+	     System.out.println("name kousalya");
 	     String name = input.next();
 	     Name(name);
       }	
+      
+     
 
        static void Name(String name)
        {
